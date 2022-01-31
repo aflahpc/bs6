@@ -1,0 +1,9 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: rgba(192, 235, 235, 0.541);
+}
+img{
+    width: 120px;
+}
